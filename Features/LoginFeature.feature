@@ -13,7 +13,7 @@ Then user click on Button "Home"
 When user enter name into textbox "name" "ABC"
 When user enter name into textbox "lastname" "XYZ"
 Then user click on radiobutton "Female"
-Then user verify the text "Heading" "Student Registration Form"
+Then user verify the text "Heading" "Students Registration Form"
 
 
 
